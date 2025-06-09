@@ -14,5 +14,5 @@ const MessageList = ({ messages }) => {
     </div>
   );
 };
-
+//styling
 export default MessageList;

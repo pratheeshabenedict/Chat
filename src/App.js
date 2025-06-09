@@ -1,6 +1,6 @@
 import React from 'react';
 import ChatBox from './components/ChatBox';
-import './index.css'
+import './index.css'//tailwind 
 function App() {
   return (
     <div className="bg-grey-100 min-h-screen flex items-center justify-center">

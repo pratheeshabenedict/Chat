@@ -20,7 +20,7 @@ const UsernameModal = ({ onSubmit, isVisible }) => {
     setError('');
     onSubmit(username.trim());
   };
-
+//this is the change
   if (!isVisible) return null;
 
   return (
